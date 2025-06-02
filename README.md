@@ -13,3 +13,5 @@ Data Loading into BigQuery: Design a process to securely loa masked employee dat
 Dashboard Visualization: Develop a web-based dashboard u visualization tools (e.g., Google Data Studio, Tableau, or ca
 
 MORE VIOKOR shboards).
+
+![307281926-755818fe-1cd3-4e1c-827d-35b963d6f414](https://github.com/user-attachments/assets/d0463ea1-63e5-4464-aa3c-14091820d42c)
