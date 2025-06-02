@@ -18,4 +18,8 @@ MORE VIOKOR shboards).
 
 
 Architecture
+
+
+
+
 ![307282089-0ea51bdb-99cc-4abf-8ccc-8be721462fc3](https://github.com/user-attachments/assets/aadd93ba-1c05-420a-90b2-92bbe8f93703)
