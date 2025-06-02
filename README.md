@@ -15,3 +15,7 @@ Dashboard Visualization: Develop a web-based dashboard u visualization tools (e.
 MORE VIOKOR shboards).
 
 ![307281926-755818fe-1cd3-4e1c-827d-35b963d6f414](https://github.com/user-attachments/assets/d0463ea1-63e5-4464-aa3c-14091820d42c)
+
+
+Architecture
+![307282089-0ea51bdb-99cc-4abf-8ccc-8be721462fc3](https://github.com/user-attachments/assets/aadd93ba-1c05-420a-90b2-92bbe8f93703)
