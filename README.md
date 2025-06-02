@@ -12,7 +12,7 @@ Requirements:
 
 3) Data Loading into BigQuery: Design a process to securely loa masked employee data into Google BigQuery.
 
-4) Dashboard Visualization: Develop a web-based dashboard u visualization tools (e.g., Google Data Studio, Tableau, or ca MORE VIOK OR Dashboards).
+4) Dashboard Visualization: Develop a web-based dashboard u visualization tools (e.g., Google Data Studio, Tableau, or  Dashboards).
 5) Orchestration: Automate complete Data pipeline using Airflow ( Cloud Composer )
 
 
